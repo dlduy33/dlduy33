@@ -1,3 +1,9 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Duy Doan. I am an Fresher Data Engineer which I teach myself online. I am interested in collect data to plan and automate things
 <br>
+
+## 🗂 My Personal Projects:
+
+<a href="https://github.com/dlduy33/Scraping-Tiki/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dlduy33&repo=Scraping-Tiki&theme=radical" />
