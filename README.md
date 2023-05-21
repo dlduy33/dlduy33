@@ -4,7 +4,7 @@ My name is Duy Doan. I am an Fresher Data Engineer which I teach myself online. 
 
 ## 🗂 My Personal Projects:
 
-<a href="https://github.com/dlduy33/Project-Data-Pipeline-for-Recruitment-Start-Up/">
+<a href="https://github.com/dlduy33/Project-Data-Pipeline-for-Recruitment-Start-Up">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dlduy33&repo=Project-Data-Pipeline-for-Recruitment-Start-Up&theme=radical" />
 <a href="https://github.com/dlduy33/ETL-pipeline-predict-customer-Behavior-and-Interaction/">
